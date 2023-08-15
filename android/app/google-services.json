@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386566331827",
+    "project_id": "hidrotecv1-60a25",
+    "storage_bucket": "hidrotecv1-60a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386566331827:android:bfcc9627cb5a85995c3fc6",
+        "android_client_info": {
+          "package_name": "br.dev.iotech.hidrotec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386566331827-srekecab2dd39o34bf30hstn7p85rtf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.dev.iotech.hidrotec",
+            "certificate_hash": "c5cb3992dfe4ab4ec16ae3c6e54713b6509aa55a"
+          }
+        },
+        {
+          "client_id": "386566331827-cifqhjnvkpudv7grvuic3h9gd5okvka0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOcpwNkYj9ZwCumbCFprSLJW1Gg7810E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386566331827-cifqhjnvkpudv7grvuic3h9gd5okvka0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
